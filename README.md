@@ -51,4 +51,7 @@ I'm currently a software engineer at <strong><a href="https://www.atomica.ai/">A
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled8&show_icons=true&count_private=true" alt="ahmedkhaled8" />
 <br>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ahmedkhaled8.ahmedkhaled8" alt="visitors"></p>
+
+Visitors:
+
+![Visitor Count](https://profile-counter.glitch.me/ahmedkhaled8/count.svg)

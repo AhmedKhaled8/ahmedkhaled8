@@ -18,6 +18,8 @@ I'm currently a software engineer at <strong><a href="https://www.atomica.ai/">A
 <li>💹 Looking forward to particapting in different Kaggle competitions and be an effective member of such amazing community.</li>
 
 <li>🧠 Interested in gaining knowledge in different fields like web and mobile development.</li>
+  
+<li>📝 I tend to upload notes of my learning in form of Jupyter notebooks and markdown files, follow to get updated.</li>
 
 </ul>
 

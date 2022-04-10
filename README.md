@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Ahmed Khaled Abdelrahman</h2>
 
-I'm currently a software engineer at <strong><a href="https://www.atomica.ai/">Atomica.ai</a></strong> as a **software and deep learning engineer** in the *Computer Vision* team.
+I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a></strong> as a **software and deep learning engineer** in the *Computer Vision* team.
 
 <a href="https://www.linkedin.com/in/akabdelrahman/"><img src="https://img.shields.io/badge/-@akabdelrahman-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/akabdelrahman/" alt="LinkedIn Badge" ></a>
 

@@ -10,8 +10,6 @@ I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a
 <ul>
 
 <li>I graduated in Cairo University - Systems and Biomedical Engineering with grade of <b>Extension with honors</b></li>
-<li>📊 I am currently enrolled in the machine learning scientist in <a href="https://www.datacamp.com/tracks/machine-learning-scientist-with-python">DataCamp</a></li>
-
 
 <li>👨‍🏫 I enjoy teaching using projects, different teaching technologies, and platforms</li>
 

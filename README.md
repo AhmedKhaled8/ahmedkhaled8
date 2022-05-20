@@ -9,7 +9,7 @@ I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 
-<li>I graduated in Cairo University - Systems and Biomedical Engineering with grade of <b>Extension with honors</b></li>
+<li>🎓 I graduated in Cairo University - Systems and Biomedical Engineering with grade of <b>Extension with honors</b></li>
 
 <li>👨‍🏫 I enjoy teaching using projects, different teaching technologies, and platforms</li>
 

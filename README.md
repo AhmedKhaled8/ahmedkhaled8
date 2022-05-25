@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Ahmed Khaled Abdelrahman</h2>
+<h2>Welcome, I'm Ahmed Khaled</h2>
 
 I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a> (also known as <a href="https://360imaging.com/">360imaging</a>)</strong> as a **software and deep learning engineer** in the *Computer Vision* team.
 

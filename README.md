@@ -6,6 +6,10 @@ I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="margin:15px 0 15px 15px" />
 
+<p>My Atomica.ai GitHub Profile:</p>
+
+[![My Atomica.ai github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/ahmedkhaled)
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 
@@ -13,11 +17,9 @@ I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a
 
 <li>👨‍🏫 I enjoy teaching using projects, different teaching technologies, and platforms</li>
 
-<li>💹 Looking forward to particapting in different Kaggle competitions and be an effective member of such amazing community.</li>
-
-<li>🧠 Interested in gaining knowledge in different fields like web and mobile development.</li>
+<li>💹 Interested in Software Development, Embedded Systems, Artificial Intelligence.</li>
   
-<li>📝 I tend to upload notes of my learning in form of Jupyter notebooks and markdown files, follow to get updated.</li>
+<li>📝 I tend to upload notes of my learning in form of Jupyter notebooks and markdown files and post it here.</li>
 
 </ul>
 

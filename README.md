@@ -1,14 +1,10 @@
 <h2>Welcome, I'm Ahmed Khaled</h2>
 
-I'm currently working at <strong><a href="https://www.atomica.ai/">Atomica.ai</a></strong> as a **software and deep learning engineer** in the *Computer Vision* team.
+I'm currently working at <strong><a href="https://www.valeo.com/">Valeo</a></strong> as a **tooling software engineer** in the *ScaLa3* team.
 
 <a href="https://www.linkedin.com/in/akabdelrahman/"><img src="https://img.shields.io/badge/-@akabdelrahman-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/akabdelrahman/" alt="LinkedIn Badge" ></a>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="margin:15px 0 15px 15px" />
-
-<p>My Atomica.ai GitHub Profile:</p>
-
-[![My Atomica.ai github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/ahmedkhaled)
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>

@@ -1,6 +1,6 @@
 <h2>Welcome, I'm Ahmed Khaled</h2>
 
-I'm currently working at <strong><a href="https://www.valeo.com/">Valeo</a></strong> as a **tooling software engineer** in the *ScaLa3* team.
+I'm currently working at <strong><a href="https://www.valeo.com/">Valeo</a></strong> as a **tooling software engineer** in the *ScaLa* team.
 
 <a href="https://www.linkedin.com/in/akabdelrahman/"><img src="https://img.shields.io/badge/-@akabdelrahman-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/akabdelrahman/" alt="LinkedIn Badge" ></a>
 
